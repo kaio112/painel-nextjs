@@ -43,6 +43,13 @@ export default function Page() {
           className='block md:hidden'
           alt='Screenshoot mobile version'
           />
+          <Image
+          src="/hero-moble.png"
+          width={560}
+          height={620}
+          className='block md:hidden'
+          alt='Screenshoot mobile version'
+          />
         </div>
       </div>
     </main>
