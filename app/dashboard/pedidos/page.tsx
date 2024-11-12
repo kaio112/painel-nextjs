@@ -1,14 +1,13 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: 'Clientes'
+    title: 'Pedidos'
 }
-
 
 export default function Customers(){
     return(
         <>
-        <p>Customers Page</p>
+        <p>Pedidos</p>
         </>
     )
 }
